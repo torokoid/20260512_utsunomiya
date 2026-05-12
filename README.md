@@ -333,7 +333,7 @@ p.note { display: none; }
 </a>
 
 <h2><span class="yellow">星座ソフトで見た同じ星空の様子</span></h2>
-<a href="20260426_021.jpg" target="_blank"><img src="20260426_021.jpg" alt="サンプル画像" class="responsive-media"></a>
+<a href="20260512_021.jpg" target="_blank"><img src="20260512_021.jpg" alt="サンプル画像" class="responsive-media"></a>
 
 <h2><span class="yellow">最後は庭に咲いたお花達</span></h2>
 <a href="20260512_022.webp" target="_blank">
